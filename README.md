@@ -1,5 +1,5 @@
 # galllery
 codeigniter gallery grocerycrud image
 
-
-<H1> TEST</h1>
+<br/>
+<img height="75" class="" alt="Thinker" src="http://www.thinkerinteractive.com/intranet/img/thinker_logo.jpg">
